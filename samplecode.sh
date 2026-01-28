@@ -1,1 +1,2 @@
-#here will be the changes
+echo "DEMOPROJECT"
+echo "updated samplecode.sh"
